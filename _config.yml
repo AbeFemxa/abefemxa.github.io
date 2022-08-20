@@ -3,13 +3,13 @@
 #
 
 # Site locale
-lang: "en"
+lang: "es"
 
 # Name of your site (displayed in the header)
 title: Recopilatorio Java
 
 # Short bio or description (displayed in the header)
-description: diseño simple y elegante
+description: recopilatorio ejercicios Java
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -57,7 +57,7 @@ footer_links:
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: Atlantic/Canary
 
 # Excerpt separator
 excerpt_separator: <!--more-->
